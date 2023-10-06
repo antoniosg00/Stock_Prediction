@@ -1,0 +1,21 @@
+
+Best hyperparameters (found in trials (global y local): 1 y 1):
+layers_type: GRU
+number_layers: 4
+lstm_layer_0_units: 150
+lstm_layer_1_units: 125
+lstm_layer_2_units: 200
+lstm_layer_3_units: 75
+dropout_rate: 0.3179250536216929
+initial_lr: 0.03710158705049303
+decay_steps: 150
+decay_rate: 0.984299923242954
+batch_size: 16
+momentum: 0.898624458107253
+kernel_initializer: glorot_uniform
+l1_factor: 0.04685447598300564
+l2_factor: 0.035864257199253416
+bidirectional: True
+
+Valor de la función objetivo:
+137.60162353515625
