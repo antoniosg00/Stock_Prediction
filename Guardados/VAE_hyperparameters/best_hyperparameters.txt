@@ -1,1 +1,0 @@
-{'latent_dim': 16, 'int1_dim': 416, 'int2_dim': 52, 'int3_dim': 85, 'int4_dim': 63, 'dropout_rate': 0.395303661487269, 'alpha_lrelu': 0.44084625544690803, 'momentum': 0.5432507980817678, 'initial_lr': 0.019778080740509532, 'decay_steps': 172, 'decay_rate': 1.0692000651296016}
