@@ -6,7 +6,7 @@
 
 ## Overview.
 
-This project focuses on stock price prediction utilizing a combination of Variational Autoencoder (VAE) and Long Short-Term Memory (LSTM) or GRU models. The workflow encompasses data extraction, preprocessing, optimization of VAE hyperparameters, VAE training, data transformation into a latent space, optimization of LSTM model hyperparameters, LSTM model training, and ultimately, visualization of predictions.
+This project of more than 1600 lines of code focuses on stock price prediction utilizing a combination of Variational Autoencoder (VAE) and Long Short-Term Memory (LSTM) or GRU models. The workflow encompasses data extraction, preprocessing, optimization of VAE hyperparameters, VAE training, data transformation into a latent space, optimization of LSTM model hyperparameters, LSTM model training, and ultimately, visualization of predictions.
 
 Additionally, a Generative Adversarial Network (GAN) has been programmed with training and optimization results that were less than satisfactory (GANs are challenging models that demand substantial computational power) for prediction purposes.
 
